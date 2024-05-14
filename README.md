@@ -43,7 +43,7 @@ Git
 
 Steps
 Clone the Repository:
-git clone https://github.com/yourusername/AuctionEase.git
+git clone https://github.com/Auction-Management-System-Mini-Project
 cd AuctionEase
 Install Backend Dependencies:
 cd backend
