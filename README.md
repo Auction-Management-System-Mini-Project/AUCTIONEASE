@@ -47,9 +47,10 @@ Steps
 1. Clone the Repository:
    
    git clone https://github.com/Auction-Management-System-Mini-Project
+   
    cd AuctionEase
    
-2. Install Backend Dependencies:
+3. Install Backend Dependencies:
    
    cd backend
    
