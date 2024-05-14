@@ -96,7 +96,8 @@ Sellers can list their items for auction, providing detailed descriptions and im
 
 Buyers can browse active auctions and place bids in real-time.
 
-- Monitor Auctions
+
+-Monitor Auctions
  
 Stay updated with real-time notifications and updates on bid status and auction progress.
 
