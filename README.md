@@ -80,21 +80,27 @@ Run the Application:
 🛠️ Usage
 
 Create an Account
+
 Sign up as an auction organizer, seller, or buyer.
 
 Create an Auction
+
 As an organizer, create auctions by specifying details such as item descriptions, starting bids, and auction duration.
 
 List Items
+
 Sellers can list their items for auction, providing detailed descriptions and images.
 
 Place Bids
+
 Buyers can browse active auctions and place bids in real-time.
 
  Monitor Auctions
+ 
 Stay updated with real-time notifications and updates on bid status and auction progress.
 
 Analyze Performance
+
 Use the comprehensive reporting tools to track auction performance and gain insights for future auctions.
 
 
